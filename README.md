@@ -1,0 +1,1 @@
+Aplicativo de entrega, o objectivo é otmiza, simplificar pedidos de comida aos restaurante, o cliente que fozer o pedido nao tera o trabalho de ligar para o restaurante com um click ele ja tera acesso ao produto
